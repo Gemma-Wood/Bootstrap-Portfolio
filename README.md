@@ -6,14 +6,15 @@ Page created that presents my name, a recent photo and navigation bar when loade
 Navigation includes links to sections about me, my work and how to contact me.
 When one of the links is clicked, UI jumps to corresponding section.
 Titled images of my applications included in 'my work' section.
+Added Bootstrap cards containing images and information.
 
 Screenshot
 <img width="1376" alt="Screenshot 2023-11-29 at 22 22 51" src="https://github.com/Gemma-Wood/gemma-wood-portfolio/assets/150028191/ddc50061-15a0-408b-adbf-96e5cc17d31c">
 
 Links
-Deployed website: (https://gemma-wood.github.io/gemma-wood-portfolio)
+Deployed website: (https://gemma-wood.github.io/gemma-wood-bootstrap-portfolio)
 
-Code repository:(https://github.com/gemma-wood/gemma-wood-portfolio)
+Code repository:(https://github.com/gemma-wood/gemma-wood-bootstrap-portfolio)
 
 Usage
 The webpage can be viewed in a traditional desktop web browser once deployed.
