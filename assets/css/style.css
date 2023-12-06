@@ -84,11 +84,11 @@ ul {
 
 .card-text {
     font-family: var(--text);
-    color: black;
+    color: rgb(37, 37, 37);
 }
 
 .main-body {
-    background-color: black;
+    background-color: rgb(255, 10, 10);
 }
 
 /* Buttons */
