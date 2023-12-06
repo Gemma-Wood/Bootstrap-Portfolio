@@ -9,7 +9,7 @@ Titled images of my applications included in 'my work' section.
 Added Bootstrap cards containing images and information.
 
 Screenshot
-<img width="1376" alt="Screenshot 2023-11-29 at 22 22 51" src="https://github.com/Gemma-Wood/gemma-wood-portfolio/assets/150028191/ddc50061-15a0-408b-adbf-96e5cc17d31c">
+<img width="1046" alt="Screenshot 2023-12-06 at 21 38 28" src="https://github.com/Gemma-Wood/Bootstrap-Portfolio/assets/150028191/634744b1-8927-46ee-829b-5b54d7263567">
 
 Links
 Deployed website: (https://gemma-wood.github.io/gemma-wood-bootstrap-portfolio)
