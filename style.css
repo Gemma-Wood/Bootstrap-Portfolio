@@ -1,21 +1,16 @@
 @font-face {
-  font-family: Bauhaus Regular;
-  src: url("../Fonts/Bauhaus-Regular.ttf");
+  font-family: Arial, Helvetica, sans-serif;
+  src: url("../Fonts/Helvetica.ttf");
 }
 
 @font-face {
-  font-family: Futura-Book-Font;
-  src: url("../Fonts/Futura-Book-font.ttf");
-}
-
-@font-face {
-  font-family: JosefinSlab-VariableFont_wght;
-  src: url("../Fonts/JosefinSlab-VariableFont_wght.ttf");
+  font-family: Arial, Helvetica, sans-serif;
+  src: url("../Fonts/Helvetica.ttf");
 }
 
 :root {
-  --golden: #ffc000;
-  --forestgreen: #ec225c;
+  --darkgrey: #2f2e2e;
+  --pink: #ec225c;
   --white: white;
   --text: Futura-Book-Font;
 }
@@ -28,8 +23,8 @@
 
 /* Text */
 h1 {
-    font-family: josefinSlab-VariableFont_wght;
-    color: var(--white);
+    font-family: bauhaus-regular;
+    color: var(--darkgrey);
     font-size: 60px;
     font-weight: 600;
 }
@@ -51,7 +46,7 @@ h3 {
 
 h5 {
     font-family: pacifico-regular;
-    color: var(--pink);
+    color: var(--darkgrey);
     padding: 45px;
     font-size: 45px;
 }
@@ -66,7 +61,7 @@ h6,
 p,
 li {
     font-family: var(--text);
-    color: var(--white);
+    color: var(--darkgrey);
 }
 
 .mywork-title {
@@ -88,14 +83,14 @@ ul {
 }
 
 .main-body {
-    background-color: rgb(224, 1, 79);
+    background-color: rgb(255, 255, 255);
 }
 
 /* Buttons */
 .btn {
   background-color: var(--pink);
   align-items: center;
-  color: white;
+  color: var(--white);
   border: none;
   border-radius: 0px;
   text-align: center;
@@ -108,7 +103,7 @@ ul {
 }
 
 .btn:hover {
-  background-color: rgb(87, 87, 87);
+  background-color: rgb(84, 84, 84);
 }
 
 .btn:active {
@@ -130,7 +125,7 @@ ul {
 }
 
 .custom-nav a {
-  color: white;
+  color: var(--pink);
   font-size: 20px;
 }
 
